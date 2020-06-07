@@ -1,0 +1,12 @@
+D:\polri\app\RSPolri\BPJSPolri\bin\x64\Debug\BPJSPolri.exe.config
+D:\polri\app\RSPolri\BPJSPolri\bin\x64\Debug\BPJSPolri.exe
+D:\polri\app\RSPolri\BPJSPolri\bin\x64\Debug\BPJSPolri.pdb
+D:\polri\app\RSPolri\BPJSPolri\bin\x64\Debug\BPJSPolri.xml
+D:\polri\app\RSPolri\BPJSPolri\obj\x64\Debug\BPJSPolri.vbproj.ResolveComReference.cache
+D:\polri\app\RSPolri\BPJSPolri\obj\x64\Debug\BPJSPolri.Form1.resources
+D:\polri\app\RSPolri\BPJSPolri\obj\x64\Debug\BPJSPolri.Resources.resources
+D:\polri\app\RSPolri\BPJSPolri\obj\x64\Debug\BPJSPolri.vbproj.GenerateResource.cache
+D:\polri\app\RSPolri\BPJSPolri\obj\x64\Debug\BPJSPolri.vbproj.CoreCompileInputs.cache
+D:\polri\app\RSPolri\BPJSPolri\obj\x64\Debug\BPJSPolri.exe
+D:\polri\app\RSPolri\BPJSPolri\obj\x64\Debug\BPJSPolri.xml
+D:\polri\app\RSPolri\BPJSPolri\obj\x64\Debug\BPJSPolri.pdb

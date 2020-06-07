@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BPJSPolri", "BPJSPolri\BPJSPolri.vbproj", "{E03E7344-F63D-4212-AA39-8127179F3CFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E03E7344-F63D-4212-AA39-8127179F3CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E03E7344-F63D-4212-AA39-8127179F3CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E03E7344-F63D-4212-AA39-8127179F3CFC}.Debug|x64.ActiveCfg = Debug|x64
+		{E03E7344-F63D-4212-AA39-8127179F3CFC}.Debug|x64.Build.0 = Debug|x64
+		{E03E7344-F63D-4212-AA39-8127179F3CFC}.Debug|x86.ActiveCfg = Debug|x86
+		{E03E7344-F63D-4212-AA39-8127179F3CFC}.Debug|x86.Build.0 = Debug|x86
+		{E03E7344-F63D-4212-AA39-8127179F3CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E03E7344-F63D-4212-AA39-8127179F3CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E03E7344-F63D-4212-AA39-8127179F3CFC}.Release|x64.ActiveCfg = Release|x64
+		{E03E7344-F63D-4212-AA39-8127179F3CFC}.Release|x64.Build.0 = Release|x64
+		{E03E7344-F63D-4212-AA39-8127179F3CFC}.Release|x86.ActiveCfg = Release|x86
+		{E03E7344-F63D-4212-AA39-8127179F3CFC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3C7D399-4C73-4344-A674-2E9C910970F8}
+	EndGlobalSection
+EndGlobal

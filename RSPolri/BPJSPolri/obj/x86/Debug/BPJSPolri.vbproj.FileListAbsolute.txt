@@ -1,0 +1,14 @@
+D:\polri\app\RSPolri\BPJSPolri\bin\x86\Debug\BPJSPolri.exe.config
+D:\polri\app\RSPolri\BPJSPolri\bin\x86\Debug\BPJSPolri.exe
+D:\polri\app\RSPolri\BPJSPolri\bin\x86\Debug\BPJSPolri.pdb
+D:\polri\app\RSPolri\BPJSPolri\bin\x86\Debug\BPJSPolri.xml
+D:\polri\app\RSPolri\BPJSPolri\obj\x86\Debug\BPJSPolri.vbproj.ResolveComReference.cache
+D:\polri\app\RSPolri\BPJSPolri\obj\x86\Debug\BPJSPolri.Form1.resources
+D:\polri\app\RSPolri\BPJSPolri\obj\x86\Debug\BPJSPolri.Resources.resources
+D:\polri\app\RSPolri\BPJSPolri\obj\x86\Debug\BPJSPolri.vbproj.GenerateResource.cache
+D:\polri\app\RSPolri\BPJSPolri\obj\x86\Debug\BPJSPolri.vbproj.CoreCompileInputs.cache
+D:\polri\app\RSPolri\BPJSPolri\obj\x86\Debug\BPJSPolri.exe
+D:\polri\app\RSPolri\BPJSPolri\obj\x86\Debug\BPJSPolri.xml
+D:\polri\app\RSPolri\BPJSPolri\obj\x86\Debug\BPJSPolri.pdb
+D:\polri\app\RSPolri\BPJSPolri\obj\x86\Debug\BPJSPolri.vbprojAssemblyReference.cache
+D:\polri\app\RSPolri\BPJSPolri\obj\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
